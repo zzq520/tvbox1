@@ -111,6 +111,8 @@ https://stream.hrbtv.net/yspd/playlist.m3u8
 https://event.pull.hebtv.com/live/live101.m3u8
 #EXTINF:-1 tvg-id="HebeiTV.cn@SD",Hebei TV (540p)
 https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8
+#EXTINF:-1 tvg-id="HunanEconomyChannel.cn@SD",Hunan Economy Channel
+https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 #EXTINF:-1 tvg-id="JiangsuPublicNewsChannel.cn@SD",Jiangsu Public & News Channel
 https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 #EXTINF:-1 tvg-id="JingmenComprehensiveNewsChannel.cn@SD",Jingmen Comprehensive News Channel
@@ -139,6 +141,8 @@ http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 tvg-id="QTV6.cn@SD",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+#EXTINF:-1 tvg-id="ShuozhouNewsComprehensiveChannel.cn@SD",Shuozhou News Comprehensive Channel
+rtmp://124.167.237.85:9935/live/xwzh2_sb
 #EXTINF:-1 tvg-id="SipingTV.cn@SD",Siping TV
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 tvg-id="TonghuaTV.cn@SD",Tonghua TV
@@ -161,8 +165,6 @@ http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 #EXTINF:-1 tvg-id="XizangTVTibetan.cn@SD",Xizang TV Tibetan
 https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
-#EXTINF:-1 tvg-id="XizangTVTibetan.cn@SD",Xizang TV Tibetan (720p) [Not 24/7]
-http://php.jdshipin.com:8880/xztv.php?id=zy
 #EXTINF:-1 tvg-id="YichangSanxiaGeneralChannel.cn@SD",Yichang Sanxia General Channel
 https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 #EXTINF:-1 tvg-id="YichangSanxiaTravelLifeChannel.cn@SD",Yichang Sanxia Travel & Life Channel
@@ -209,6 +211,10 @@ https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1 tvg-id="",松原新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/sytv/sd/live.m3u8
+#EXTINF:-1 tvg-id="",武进新闻 (576p) [Not 24/7]
+https://live.wjyanghu.com/live/CH1.m3u8
+#EXTINF:-1 tvg-id="",武进生活 (576p) [Not 24/7]
+https://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-id="",江津新闻综合 (480p)
 http://222.179.155.21:1935/ch1.m3u8
 #EXTINF:-1 tvg-id="",江津经济生活 (480p)
